@@ -1,0 +1,79 @@
+.admin-table-container {
+    margin: 20px;
+  }
+  
+  .admin-table {
+    width: 100%;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
+  .admin-table-header {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    background-color: #f0f0f0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .expand-icon {
+    margin-right: 20px;
+    background-color: rgb(94, 1, 243);
+    border-radius: 50%;
+  }
+  
+  .asset-classname {
+    font-size: 23px;
+    color: rgb(11, 20, 32);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+  }
+.table-row{
+    
+    margin-bottom: 20px;
+    border: #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    
+}
+
+  
+.admin-table td {
+
+  padding: 15px;
+  border-bottom:none;
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
+  
+  
+  
+}
+
+
+
+.admin-table th {
+    padding: 15px;
+    border-bottom: 0.5px solid #ddd;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: #ffffff;
+  color: rgb(29, 117, 168);
+}
+
+.admin-table tr:nth-child(even) {
+  background-color: #dbebecc0;
+}
+
+.admin-table tr:hover {
+  background-color: #aaa9a9;
+}
+  
+  
+  
+  .arrow-icon {
+    color: #ffffff;
+  }
+  
+ 
+  

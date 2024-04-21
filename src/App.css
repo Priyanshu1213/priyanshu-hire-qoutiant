@@ -1,0 +1,24 @@
+/* Style for App container */
+.App {
+  display: flex;
+  justify-content: center;
+  height: auto; 
+  
+  background-color: #f0f0f0; 
+}
+
+
+.App1 {
+  width: 95%; 
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px; 
+  background-color: #fff; 
+  border-radius: 10px; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+.h{
+text-align: center;
+}
+
+
